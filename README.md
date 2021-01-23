@@ -30,8 +30,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 To learn more about Molasses and start using powerful feature flags, take a look at the:
 
-- [Molasses](https://www.molasses.app/)
-- [Molasses Documentation](https://docs.molasses.app/)
+- [Molasses](https://www.molasses.app/) - Molasses is a powerful feature flagging system, that lets you safely deploy features. 
+- [Molasses Documentation](https://docs.molasses.app/) - The docs for all of Molasses' SDKs.
 
 To learn more about Next.js, take a look at the following resources:
 
